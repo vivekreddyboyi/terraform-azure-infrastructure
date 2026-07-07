@@ -1,0 +1,6 @@
+resource_group_name = "rg-devops-demo"
+location            = "Central India"
+storage_account_name = "devopsstorage12345"
+virtual_network_name = "vnet-devops"
+subnet_name          = "subnet-devops"
+vm_name              = "vm-devops-demo"
